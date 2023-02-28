@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything related to python, machine learning, or data science
-- 📫 How to reach me : Send me an email to parthiv.iitg@gamil.com
+- 📫 How to reach me : Send me an email to parthiv.iitg@gmail.com
 
 <!---
 pparthiv/pparthiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
