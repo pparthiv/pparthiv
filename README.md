@@ -1,5 +1,6 @@
 ## Hello there, I'm Parthiv Purkayastha  👋
-#### Get in touch: <a href="https://www.linkedin.com/in/parthiv-purkayastha/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+#### Get in touch:
+  <a href="https://www.linkedin.com/in/parthiv-purkayastha/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 #### My resume: <a href="https://drive.google.com/file/d/1LgHRB4Z5qZofrj4Pg8vFNIzhMVEp8Gle/view?usp=drive_link">Resume </a>
 
 ## I'm a Computer Science Student and a Developer
